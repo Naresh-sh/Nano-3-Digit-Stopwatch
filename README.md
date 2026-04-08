@@ -60,8 +60,7 @@ Right	D12
 Button Connection
 
 
-A2 → Button → GND<img width="1920" height="1053" alt="Screenshot from 2026-04-07 08-21-01" src="https://github.com/user-attachments/assets/60e4c6b0-c653-4625-95a1-b32da7529698" />
-
+A2 → Button → GND 
 
 Uses Arduino internal pullup resistor.
 
@@ -80,4 +79,5 @@ Example counting:
 ...
 9.59
 
+<img width="1920" height="1053" alt="Untitled design" src="https://github.com/user-attachments/assets/0003c92b-6125-46a5-90d9-499d94574e7b" />
 
